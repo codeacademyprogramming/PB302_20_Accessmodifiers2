@@ -1,0 +1,10 @@
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.deps.json
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.pdb
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\elchin\Desktop\CodeLessons\20. 17-01-2024\17012024\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.pdb
